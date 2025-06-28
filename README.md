@@ -1,17 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56cc9d&height=200&section=header&text=%20Shohanuzzaman%20Shishir!%20👋&fontSize=40&fontAlignY=40&desc=ML%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=20&descAlignY=60" />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Shishir1035"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=500&lines=⚡+Enjoy+Learning+New+Technologies;🎮+Building+Fun+Projects" alt="Typing Animation" /></a>
-</p>
+</p> -->
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Science & Engineering student from 🇧🇩 Bangladesh  
-🧠 Passionate about **Machine Learning**, **Flutter Development**, and **DevOps Engineering**  
-🚀 Currently working on intelligent, scalable, and impactful systems  
-🎮 GitHub + Gaming = Ultimate Therapy  
+- 🎓 I'm a Computer Science & Engineering student from 🇧🇩 Bangladesh  
+- 🧠 Passionate about **Machine Learning**, **Flutter Development**, and **DevOps Engineering**  
+- 🚀 Currently working on Android Systems 
+- 🎮 GitHub + Gaming = Ultimate Therapy  
 
 ---
 
@@ -78,7 +78,6 @@
 - 📺 Watching anime nowadays
 - 🐧 Terminal is a sacred place. Fish shell supremacy 🐟.
 - 💡 Can solve ML bugs faster than I can solve real-life problems.
-- 👨‍💻 Writes better code at 3AM than at 3PM (don’t ask why).
 
 ---
 
